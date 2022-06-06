@@ -1,0 +1,793 @@
+mask_or_not/JPEGImages/61_Street_Battle_streetfight_61_843.jpg 124,106,272,292,0 428,112,556,286,0 772,100,902,296,0
+mask_or_not/JPEGImages/test_00000161.jpg 187,21,237,83,1
+mask_or_not/JPEGImages/30_Surgeons_Surgeons_30_661.jpg 236,236,737,925,0
+mask_or_not/JPEGImages/test_00004530.jpg 317,116,378,213,1 51,532,79,578,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_177.jpg 572,24,848,424,0
+mask_or_not/JPEGImages/41_Swimming_Swimming_41_532.jpg 229,60,241,87,0 257,48,280,81,0 414,54,434,74,0 545,140,560,155,0
+mask_or_not/JPEGImages/test_00004186.jpg 189,191,458,572,0
+mask_or_not/JPEGImages/test_00003224.jpg 45,56,108,135,0
+mask_or_not/JPEGImages/test_00003251.jpg 102,62,442,538,1
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_198.jpg 506,114,584,226,0
+mask_or_not/JPEGImages/test_00001153.jpg 102,46,158,124,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_408.jpg 281,309,372,439,0 443,128,520,239,0 712,329,794,434,0 528,723,624,851,0
+mask_or_not/JPEGImages/test_00003090.jpg 67,50,132,144,0
+mask_or_not/JPEGImages/test_00004811.jpg 230,100,328,239,1
+mask_or_not/JPEGImages/test_00000936.jpg 45,27,144,158,1
+mask_or_not/JPEGImages/test_00002552.jpg 210,76,260,132,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_382.jpg 290,162,400,322,0 568,76,686,246,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_109.jpg 648,160,856,462,0
+mask_or_not/JPEGImages/test_00003814.jpg 277,171,563,566,1
+mask_or_not/JPEGImages/test_00004768.jpg 310,116,388,201,1 212,87,278,148,1
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_515.jpg 258,60,364,198,0 446,60,552,194,0 652,58,760,196,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_636.jpg 187,42,242,117,0 723,109,758,157,0 798,114,830,156,0
+mask_or_not/JPEGImages/test_00003900.jpg 77,102,173,225,0 339,98,405,192,1
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_136.jpg 82,36,332,334,0
+mask_or_not/JPEGImages/test_00002941.jpg 424,216,502,327,1
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_111.jpg 100,92,256,274,0 766,120,912,322,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_681.jpg 651,557,801,694,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_937.jpg 801,251,839,302,0 633,235,664,272,0 953,197,988,232,0 966,455,1013,514,0 914,431,962,485,0 833,405,884,470,0 715,401,772,462,0 626,344,665,398,0 206,256,242,301,0 178,265,209,307,0 1002,392,1023,443,0 0,243,21,279,0 0,330,13,380,0 356,143,389,186,0 224,371,292,444,0 97,359,128,404,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_716.jpg 416,22,742,488,0
+mask_or_not/JPEGImages/test_00002882.jpg 215,40,377,282,0
+mask_or_not/JPEGImages/27_Spa_Spa_27_425.jpg 158,206,384,332,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_397.jpg 151,220,174,255,0 238,256,327,370,0 488,213,530,268,0 777,231,794,256,0 836,208,861,246,0 608,201,687,317,0
+mask_or_not/JPEGImages/test_00004585.jpg 243,41,372,241,1
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_812.jpg 388,72,476,202,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_292.jpg 440,274,520,398,0 628,316,702,414,0
+mask_or_not/JPEGImages/test_00003526.jpg 173,36,297,177,0
+mask_or_not/JPEGImages/test_00002571.jpg 96,33,126,67,1
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_586.jpg 645,224,662,243,0 579,228,596,247,0 373,159,391,188,0 182,174,208,204,0
+mask_or_not/JPEGImages/test_00004611.jpg 380,56,520,253,1
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_512.jpg 358,120,593,478,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_33.jpg 469,160,624,365,0
+mask_or_not/JPEGImages/test_00002663.jpg 59,13,128,115,1
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_716.jpg 672,166,742,254,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_320.jpg 452,142,510,222,0
+mask_or_not/JPEGImages/test_00001375.jpg 132,59,379,400,0
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_189.jpg 171,218,230,284,0 253,222,299,280,0 396,212,444,280,0 515,216,558,281,0 571,186,610,236,0 674,242,717,297,0 751,239,790,288,0 815,253,857,310,0 919,250,964,303,0 686,127,699,148,0 696,98,701,108,0 686,82,692,93,0 672,78,678,88,0 653,86,660,96,0 639,79,645,90,0 619,76,627,88,0 598,113,605,125,0 591,115,597,127,0 605,81,613,89,0 592,87,598,97,0 572,82,580,94,0 459,69,466,82,0 447,69,452,81,0 431,67,438,77,0 413,65,422,74,0 308,75,315,88,0 517,69,523,78,0 534,87,542,95,0 397,65,406,75,0 356,80,365,95,0 313,104,322,117,0 374,73,384,87,0 618,99,625,109,0
+mask_or_not/JPEGImages/20_Family_Group_Family_Group_20_702.jpg 754,344,814,408,0 658,248,730,335,0 518,399,572,456,0 275,239,350,324,0
+mask_or_not/JPEGImages/test_00002057.jpg 359,26,414,95,0 71,21,122,101,0 216,71,265,136,1
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_61.jpg 192,20,262,150,0 318,118,390,212,0 460,102,526,198,0 628,90,698,176,0 796,70,860,170,0
+mask_or_not/JPEGImages/test_00004427.jpg 142,35,458,477,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_781.jpg 288,151,579,590,0
+mask_or_not/JPEGImages/test_00003395.jpg 288,82,329,139,1 67,113,109,166,0
+mask_or_not/JPEGImages/test_00002647.jpg 236,165,372,327,1
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_820.jpg 614,262,726,418,0 789,478,926,584,0
+mask_or_not/JPEGImages/test_00000658.jpg 57,35,139,166,1
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_473.jpg 766,68,838,154,0 612,36,666,124,0
+mask_or_not/JPEGImages/test_00001824.jpg 70,40,111,92,1
+mask_or_not/JPEGImages/test_00003095.jpg 133,37,309,256,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_235.jpg 546,271,593,357,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_155.jpg 398,310,476,366,0
+mask_or_not/JPEGImages/test_00004297.jpg 196,52,312,224,0
+mask_or_not/JPEGImages/test_00003471.jpg 326,125,631,513,1
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_601.jpg 132,432,280,578,0
+mask_or_not/JPEGImages/test_00003142.jpg 435,108,494,206,1 276,76,341,160,0 170,54,233,155,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_246.jpg 220,88,320,236,0
+mask_or_not/JPEGImages/test_00000995.jpg 78,1,384,400,1
+mask_or_not/JPEGImages/test_00004823.jpg 50,1,332,378,1
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_181.jpg 441,153,660,483,0
+mask_or_not/JPEGImages/test_00003847.jpg 161,53,216,128,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_485.jpg 304,240,470,474,0
+mask_or_not/JPEGImages/test_00003507.jpg 204,40,244,94,0
+mask_or_not/JPEGImages/test_00001957.jpg 227,92,270,142,1 64,144,117,208,0 107,313,130,351,1
+mask_or_not/JPEGImages/test_00004852.jpg 99,75,305,389,1
+mask_or_not/JPEGImages/test_00003088.jpg 314,144,573,477,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_70.jpg 199,59,297,205,0 715,90,821,244,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_1025.jpg 607,126,757,366,0
+mask_or_not/JPEGImages/41_Swimming_Swimming_41_39.jpg 474,270,558,358,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_784.jpg 370,109,619,448,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_733.jpg 133,165,242,282,0 288,195,368,323,0 459,165,518,288,0 661,139,725,232,0 861,469,986,632,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_941.jpg 428,242,522,382,0
+mask_or_not/JPEGImages/test_00000430.jpg 102,114,211,275,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_332.jpg 268,244,396,416,0 620,136,764,308,0
+mask_or_not/JPEGImages/test_00001188.jpg 343,94,456,273,1
+mask_or_not/JPEGImages/test_00002655.jpg 237,96,262,144,1 103,62,123,109,1 33,106,66,143,1 84,105,97,120,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_973.jpg 308,124,374,224,0 826,166,898,264,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_941.jpg 182,208,476,556,0
+mask_or_not/JPEGImages/test_00000306.jpg 175,86,216,123,1
+mask_or_not/JPEGImages/test_00001461.jpg 92,48,232,237,1
+mask_or_not/JPEGImages/19_Couple_Couple_19_214.jpg 722,192,754,248,0 368,205,400,265,0
+mask_or_not/JPEGImages/test_00003641.jpg 218,124,403,383,1
+mask_or_not/JPEGImages/test_00000074.jpg 393,411,618,687,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_43.jpg 711,200,764,257,0 465,214,524,277,0 240,173,298,235,0 30,187,83,271,0 674,217,679,224,0 657,223,662,229,0
+mask_or_not/JPEGImages/test_00004039.jpg 328,150,501,366,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_287.jpg 495,348,720,651,0
+mask_or_not/JPEGImages/test_00004605.jpg 358,95,451,209,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_511.jpg 108,104,222,260,0 652,36,794,260,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_78.jpg 305,117,601,569,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_408.jpg 246,94,418,340,0
+mask_or_not/JPEGImages/27_Spa_Spa_27_726.jpg 376,382,442,448,0 276,128,348,188,0
+mask_or_not/JPEGImages/test_00001703.jpg 221,205,767,1001,1
+mask_or_not/JPEGImages/test_00002007.jpg 270,70,343,160,1
+mask_or_not/JPEGImages/test_00000158.jpg 177,54,233,117,1 60,30,114,94,1
+mask_or_not/JPEGImages/test_00002912.jpg 210,97,321,236,0
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_424.jpg 480,158,615,353,0
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_49.jpg 344,347,428,485,0 539,353,629,470,0
+mask_or_not/JPEGImages/test_00000974.jpg 289,100,464,376,1
+mask_or_not/JPEGImages/test_00002991.jpg 123,79,303,310,1
+mask_or_not/JPEGImages/30_Surgeons_Surgeons_30_836.jpg 355,128,577,439,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_577.jpg 468,105,864,649,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_949.jpg 192,338,282,424,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_829.jpg 45,15,284,263,0
+mask_or_not/JPEGImages/test_00000843.jpg 157,184,205,252,1 58,133,128,231,0 298,124,355,208,1 497,172,550,246,0 379,202,421,266,1
+mask_or_not/JPEGImages/test_00002760.jpg 220,127,511,489,1
+mask_or_not/JPEGImages/test_00000266.jpg 236,74,289,146,1 25,123,65,169,1 186,131,219,166,1
+mask_or_not/JPEGImages/test_00003850.jpg 437,96,634,332,1
+mask_or_not/JPEGImages/30_Surgeons_Surgeons_30_535.jpg 286,187,726,871,0
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_43.jpg 94,108,150,181,0 243,115,307,193,0 342,109,397,170,0 466,103,523,181,0 518,127,555,190,0 629,102,680,171,0 734,123,784,188,0
+mask_or_not/JPEGImages/test_00000890.jpg 183,49,301,192,1
+mask_or_not/JPEGImages/test_00001221.jpg 246,163,523,557,1
+mask_or_not/JPEGImages/test_00000372.jpg 59,44,161,197,1
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_770.jpg 432,120,548,270,0
+mask_or_not/JPEGImages/test_00002377.jpg 56,67,275,357,1
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_831.jpg 293,345,729,861,0
+mask_or_not/JPEGImages/test_00001438.jpg 121,108,325,458,1
+mask_or_not/JPEGImages/test_00004816.jpg 328,213,485,403,1 96,168,271,373,1 342,64,417,149,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_301.jpg 367,113,466,266,0 582,214,679,343,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_150.jpg 548,1015,607,1077,0 424,960,482,1029,0 244,937,287,994,0 379,968,428,1039,0 198,1132,250,1186,0 51,920,94,973,0 70,829,107,868,0 255,796,294,845,0 452,865,491,912,0 0,914,25,979,0 0,871,31,915,0 103,917,143,968,0 95,771,119,812,0
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_75.jpg 500,54,584,180,0 738,248,812,372,0
+mask_or_not/JPEGImages/test_00004354.jpg 206,153,295,271,1
+mask_or_not/JPEGImages/test_00001315.jpg 442,110,587,298,1 284,178,412,362,1
+mask_or_not/JPEGImages/test_00001478.jpg 261,135,519,512,1
+mask_or_not/JPEGImages/45_Balloonist_Balloonist_45_20.jpg 269,342,672,1000,0
+mask_or_not/JPEGImages/test_00000058.jpg 114,1,155,37,0 122,36,161,86,1
+mask_or_not/JPEGImages/test_00002725.jpg 221,116,381,323,1
+mask_or_not/JPEGImages/test_00003242.jpg 74,48,154,188,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_404.jpg 472,65,597,213,0
+mask_or_not/JPEGImages/test_00004137.jpg 104,47,150,109,0
+mask_or_not/JPEGImages/test_00003806.jpg 216,53,337,222,0
+mask_or_not/JPEGImages/test_00001093.jpg 507,55,609,180,1
+mask_or_not/JPEGImages/test_00004662.jpg 144,7,223,128,1
+mask_or_not/JPEGImages/test_00003127.jpg 302,129,482,389,1
+mask_or_not/JPEGImages/test_00004308.jpg 379,146,414,199,1 314,191,338,226,0
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_326.jpg 411,222,525,395,0 457,49,578,222,0
+mask_or_not/JPEGImages/test_00003424.jpg 170,70,304,264,0
+mask_or_not/JPEGImages/test_00001946.jpg 63,162,176,274,1 399,35,521,170,1
+mask_or_not/JPEGImages/test_00000286.jpg 78,102,133,173,1 1,73,42,143,1
+mask_or_not/JPEGImages/test_00001656.jpg 466,175,675,380,1
+mask_or_not/JPEGImages/59_peopledrivingcar_peopledrivingcar_59_841.jpg 704,90,800,202,0 150,280,220,372,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_64.jpg 274,282,408,428,0 612,114,762,288,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_108.jpg 282,124,350,210,0 472,84,542,180,0 664,48,740,148,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_927.jpg 528,140,654,320,0
+mask_or_not/JPEGImages/30_Surgeons_Surgeons_30_198.jpg 108,144,186,264,0 264,94,344,204,0 456,38,538,150,0 642,46,716,150,0 828,110,908,210,0
+mask_or_not/JPEGImages/test_00002219.jpg 74,112,332,356,1
+mask_or_not/JPEGImages/test_00003896.jpg 403,123,606,377,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_19.jpg 314,109,365,141,0 399,191,442,236,0 479,101,506,125,0 790,156,869,234,0 592,76,623,106,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_580.jpg 449,111,567,272,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_351.jpg 776,63,853,160,0 358,133,437,230,0 220,88,308,190,0 86,303,100,326,0 467,269,499,318,0
+mask_or_not/JPEGImages/test_00003550.jpg 156,129,475,567,1
+mask_or_not/JPEGImages/40_Gymnastics_Gymnastics_40_460.jpg 495,163,587,306,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_468.jpg 352,86,456,252,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_691.jpg 202,67,282,181,0 683,69,776,197,0
+mask_or_not/JPEGImages/test_00002041.jpg 172,52,321,268,1
+mask_or_not/JPEGImages/test_00001775.jpg 260,89,584,496,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_666.jpg 334,195,567,527,0
+mask_or_not/JPEGImages/test_00001629.jpg 72,51,233,266,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_304.jpg 442,30,498,104,0
+mask_or_not/JPEGImages/test_00001084.jpg 367,225,540,439,1
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_381.jpg 478,200,656,476,0
+mask_or_not/JPEGImages/test_00002257.jpg 288,73,517,406,1
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_253.jpg 678,289,716,329,0 68,76,94,107,0 159,78,181,106,0 260,88,284,117,0 315,176,323,187,0 206,81,210,87,0 236,89,240,95,0 230,85,234,90,0 199,79,204,86,0 304,92,309,98,0 295,87,299,95,0 287,81,291,87,0 319,70,325,76,0 324,60,329,65,0 371,60,375,67,0 385,156,389,161,0 342,150,348,157,0 236,80,241,86,0
+mask_or_not/JPEGImages/test_00001723.jpg 218,316,349,489,1 492,89,589,213,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_691.jpg 480,174,680,478,0
+mask_or_not/JPEGImages/test_00002527.jpg 161,75,234,181,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_999.jpg 544,344,765,640,0 197,291,474,643,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_132.jpg 283,499,360,608,0
+mask_or_not/JPEGImages/test_00002557.jpg 153,250,298,445,1
+mask_or_not/JPEGImages/8_Election_Campain_Election_Campaign_8_25.jpg 590,154,770,394,0
+mask_or_not/JPEGImages/test_00000408.jpg 274,221,371,341,0 589,97,689,253,1
+mask_or_not/JPEGImages/59_peopledrivingcar_peopledrivingcar_59_401.jpg 220,270,378,472,0 412,262,504,380,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_342.jpg 441,180,558,348,0
+mask_or_not/JPEGImages/test_00000036.jpg 350,92,385,139,1 428,127,462,170,1
+mask_or_not/JPEGImages/test_00000790.jpg 131,186,421,638,0
+mask_or_not/JPEGImages/test_00004810.jpg 137,208,224,340,1
+mask_or_not/JPEGImages/test_00003405.jpg 41,0,218,200,1
+mask_or_not/JPEGImages/test_00001276.jpg 206,147,420,392,0
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_246.jpg 457,263,496,313,0
+mask_or_not/JPEGImages/test_00002230.jpg 599,241,1007,941,1
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_591.jpg 500,14,564,104,0
+mask_or_not/JPEGImages/test_00004833.jpg 289,40,449,306,1
+mask_or_not/JPEGImages/test_00002883.jpg 127,44,417,453,1
+mask_or_not/JPEGImages/test_00004253.jpg 277,68,342,156,1
+mask_or_not/JPEGImages/test_00004285.jpg 109,14,175,99,0
+mask_or_not/JPEGImages/test_00004227.jpg 199,125,539,579,1 26,38,113,145,1
+mask_or_not/JPEGImages/test_00000254.jpg 150,40,205,110,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_735.jpg 230,94,370,260,0 712,110,844,284,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_182.jpg 353,122,495,330,0
+mask_or_not/JPEGImages/test_00002772.jpg 204,58,362,276,1
+mask_or_not/JPEGImages/test_00004551.jpg 304,174,463,372,1
+mask_or_not/JPEGImages/test_00004410.jpg 13,56,58,102,0 232,64,274,109,0
+mask_or_not/JPEGImages/test_00003462.jpg 274,160,495,398,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_110.jpg 408,68,564,288,0
+mask_or_not/JPEGImages/test_00002390.jpg 183,237,307,390,0 233,93,329,233,1
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_143.jpg 382,194,558,470,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_206.jpg 210,273,606,895,0
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_286.jpg 152,106,204,162,0 309,146,347,192,0
+mask_or_not/JPEGImages/test_00001473.jpg 331,250,475,409,1
+mask_or_not/JPEGImages/test_00002170.jpg 463,196,885,880,1
+mask_or_not/JPEGImages/test_00002351.jpg 103,1,415,365,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_915.jpg 438,68,552,186,0 742,32,874,168,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_34.jpg 420,57,588,324,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_759.jpg 447,580,618,775,0
+mask_or_not/JPEGImages/test_00004650.jpg 77,1,164,91,1
+mask_or_not/JPEGImages/test_00004314.jpg 279,50,318,114,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_249.jpg 434,106,566,290,0 740,283,789,342,0 789,394,846,447,0 885,406,943,467,0 790,16,878,135,0 75,436,130,499,0 206,393,262,453,0 238,313,292,378,0 232,260,283,321,0 113,329,158,389,0 67,394,118,448,0 243,47,281,91,0
+mask_or_not/JPEGImages/test_00002873.jpg 3,129,139,300,1 350,111,444,233,0 152,52,307,257,1
+mask_or_not/JPEGImages/test_00004056.jpg 155,78,305,283,0
+mask_or_not/JPEGImages/test_00000854.jpg 46,34,136,161,1
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_472.jpg 797,423,825,472,0 644,430,654,449,0 28,446,39,463,0 162,437,174,451,0
+mask_or_not/JPEGImages/test_00004041.jpg 176,65,323,253,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_3.jpg 803,168,891,284,0 764,60,848,167,0 541,63,622,166,0 315,133,400,236,0 201,101,273,222,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_876.jpg 454,174,556,288,0 878,130,978,274,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_120.jpg 352,91,552,350,0
+mask_or_not/JPEGImages/test_00001285.jpg 244,82,551,445,1
+mask_or_not/JPEGImages/test_00002723.jpg 357,88,400,156,1 142,25,189,96,1
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_269.jpg 476,116,664,388,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_106.jpg 406,110,694,522,0
+mask_or_not/JPEGImages/test_00002910.jpg 169,27,229,134,0 160,291,216,399,0
+mask_or_not/JPEGImages/test_00001558.jpg 259,122,546,503,1
+mask_or_not/JPEGImages/test_00003008.jpg 226,231,486,569,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_851.jpg 104,174,314,424,0
+mask_or_not/JPEGImages/test_00001968.jpg 168,162,285,335,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_772.jpg 341,100,755,766,0 12,638,61,681,0 71,681,119,722,0
+mask_or_not/JPEGImages/test_00001734.jpg 256,196,391,377,1 370,319,503,499,1
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_277.jpg 272,67,322,137,0 19,30,23,36,0 28,31,31,38,0
+mask_or_not/JPEGImages/test_00002494.jpg 184,81,259,192,1
+mask_or_not/JPEGImages/39_Ice_Skating_Ice_Skating_39_616.jpg 351,219,519,387,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_401.jpg 432,133,592,364,0
+mask_or_not/JPEGImages/27_Spa_Spa_27_486.jpg 460,189,504,270,0 771,33,826,119,0
+mask_or_not/JPEGImages/test_00004620.jpg 223,114,366,295,1
+mask_or_not/JPEGImages/test_00002992.jpg 113,58,156,118,0 330,82,373,134,0 232,74,277,131,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_302.jpg 378,369,711,813,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_508.jpg 327,171,777,817,0
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_253.jpg 334,208,742,750,0
+mask_or_not/JPEGImages/test_00004618.jpg 141,82,322,331,1
+mask_or_not/JPEGImages/test_00004437.jpg 247,43,308,132,1 129,101,189,159,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_317.jpg 344,86,416,170,0
+mask_or_not/JPEGImages/test_00004799.jpg 329,53,464,238,1
+mask_or_not/JPEGImages/test_00004830.jpg 150,176,424,525,1
+mask_or_not/JPEGImages/test_00001945.jpg 98,71,228,211,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_667.jpg 414,134,532,265,0 585,226,651,307,0 757,239,830,313,0 292,227,351,294,0 222,302,267,368,0
+mask_or_not/JPEGImages/test_00003054.jpg 243,62,371,238,0
+mask_or_not/JPEGImages/test_00002197.jpg 125,31,342,310,1
+mask_or_not/JPEGImages/test_00000323.jpg 21,19,164,163,1
+mask_or_not/JPEGImages/test_00002193.jpg 79,18,126,81,0
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_495.jpg 214,377,237,406,0 376,454,387,468,0 358,452,367,465,0 607,462,633,497,0 577,443,586,458,0 598,450,608,464,0 610,438,619,451,0 675,439,686,453,0 700,435,710,451,0 710,449,720,464,0 726,440,737,454,0 815,445,826,459,0 821,459,831,473,0 870,448,880,463,0 934,451,945,467,0 955,437,967,453,0 919,447,929,462,0 140,400,161,424,0 137,472,163,508,0 398,412,423,442,0 665,453,686,495,0 765,430,785,457,0 890,438,909,458,0 971,438,987,460,0 632,415,654,435,0
+mask_or_not/JPEGImages/test_00003336.jpg 193,179,530,625,1
+mask_or_not/JPEGImages/test_00004826.jpg 136,141,286,312,1
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_963.jpg 314,230,703,827,0
+mask_or_not/JPEGImages/41_Swimming_Swimming_41_358.jpg 131,444,175,506,0 552,410,596,476,0 416,183,445,222,0 93,182,125,225,0 287,68,308,101,0 552,66,574,99,0 892,451,935,506,0 723,193,747,233,0 792,75,815,106,0
+mask_or_not/JPEGImages/test_00002048.jpg 308,103,438,303,1 1,384,16,412,1
+mask_or_not/JPEGImages/test_00004333.jpg 216,144,405,377,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_923.jpg 514,38,670,262,0
+mask_or_not/JPEGImages/test_00000543.jpg 52,34,114,120,1 126,77,179,162,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_875.jpg 426,268,715,658,0
+mask_or_not/JPEGImages/test_00001914.jpg 38,15,111,102,1
+mask_or_not/JPEGImages/test_00004877.jpg 73,0,287,260,1
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_307.jpg 462,174,597,377,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_921.jpg 222,232,796,1099,0
+mask_or_not/JPEGImages/test_00004042.jpg 179,58,293,185,0 283,92,390,223,0
+mask_or_not/JPEGImages/test_00003132.jpg 318,90,427,279,1
+mask_or_not/JPEGImages/test_00003717.jpg 39,90,117,194,1 279,233,361,343,1
+mask_or_not/JPEGImages/test_00001194.jpg 85,8,201,140,0
+mask_or_not/JPEGImages/1_Handshaking_Handshaking_1_722.jpg 178,129,841,948,0
+mask_or_not/JPEGImages/test_00001138.jpg 464,469,639,682,1 501,65,650,313,1 92,508,301,792,1 751,289,799,367,1
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_815.jpg 235,292,722,936,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_730.jpg 498,192,759,501,0
+mask_or_not/JPEGImages/30_Surgeons_Surgeons_30_1031.jpg 306,282,756,931,0
+mask_or_not/JPEGImages/test_00000382.jpg 47,68,116,153,1 221,61,273,133,1
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_388.jpg 563,186,616,273,0 531,149,586,234,0
+mask_or_not/JPEGImages/test_00001317.jpg 92,71,169,185,1 253,58,352,201,1
+mask_or_not/JPEGImages/19_Couple_Couple_19_424.jpg 346,242,568,590,0 562,226,772,578,0 608,44,692,162,0
+mask_or_not/JPEGImages/39_Ice_Skating_Ice_Skating_39_127.jpg 464,144,493,210,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_664.jpg 189,274,607,793,0 481,0,946,604,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_256.jpg 414,144,554,324,0
+mask_or_not/JPEGImages/test_00001417.jpg 207,87,321,221,1
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_305.jpg 387,264,483,420,0 592,279,682,411,0
+mask_or_not/JPEGImages/test_00004008.jpg 101,21,158,98,0
+mask_or_not/JPEGImages/9_Press_Conference_Press_Conference_9_297.jpg 410,176,672,538,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_12.jpg 470,174,608,356,0
+mask_or_not/JPEGImages/test_00000356.jpg 191,89,229,167,1
+mask_or_not/JPEGImages/test_00002903.jpg 177,87,219,149,0 425,71,528,195,0 39,66,91,136,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_161.jpg 483,562,681,808,0 216,1042,351,1228,0
+mask_or_not/JPEGImages/test_00002304.jpg 244,129,316,200,1 443,202,498,285,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_951.jpg 920,37,959,88,0 745,35,785,84,0 583,33,624,83,0 401,28,442,79,0 241,39,280,91,0 63,42,104,97,0
+mask_or_not/JPEGImages/test_00003491.jpg 285,178,730,828,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_46.jpg 436,122,670,410,0
+mask_or_not/JPEGImages/test_00003767.jpg 208,1,421,296,1
+mask_or_not/JPEGImages/27_Spa_Spa_27_896.jpg 564,216,644,318,0 710,234,788,328,0
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_230.jpg 796,320,884,466,0 136,420,206,524,0 400,132,616,484,0
+mask_or_not/JPEGImages/40_Gymnastics_Gymnastics_40_740.jpg 404,769,620,1098,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_870.jpg 68,340,441,859,0 581,316,989,840,0
+mask_or_not/JPEGImages/test_00000021.jpg 359,204,468,353,1 482,327,536,448,1
+mask_or_not/JPEGImages/test_00003824.jpg 315,214,631,637,1
+mask_or_not/JPEGImages/52_Photographers_taketouristphotos_52_90.jpg 450,512,502,558,0
+mask_or_not/JPEGImages/test_00003586.jpg 242,146,331,258,0 543,82,643,219,1 406,188,485,304,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_607.jpg 573,45,720,261,0 181,149,320,352,0
+mask_or_not/JPEGImages/27_Spa_Spa_27_400.jpg 566,690,732,786,0 248,632,308,692,0
+mask_or_not/JPEGImages/test_00001091.jpg 347,416,442,553,1
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_240.jpg 226,180,290,282,0 710,184,782,274,0
+mask_or_not/JPEGImages/test_00003029.jpg 425,292,564,439,1
+mask_or_not/JPEGImages/test_00000889.jpg 173,99,343,363,1
+mask_or_not/JPEGImages/test_00001615.jpg 33,1,288,356,1
+mask_or_not/JPEGImages/test_00000445.jpg 462,65,525,161,1
+mask_or_not/JPEGImages/test_00004242.jpg 88,70,223,248,1
+mask_or_not/JPEGImages/test_00004035.jpg 280,54,360,164,0
+mask_or_not/JPEGImages/test_00003566.jpg 150,24,373,301,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_228.jpg 456,116,634,373,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_514.jpg 200,366,452,702,0 2,296,200,610,0
+mask_or_not/JPEGImages/test_00001929.jpg 56,70,207,260,1
+mask_or_not/JPEGImages/27_Spa_Spa_27_725.jpg 718,556,952,712,0
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_554.jpg 54,60,101,123,0 452,396,584,533,0 577,101,612,157,0 882,99,946,180,0 793,359,908,517,0 800,90,831,143,0 259,135,301,177,0
+mask_or_not/JPEGImages/test_00004507.jpg 182,127,241,206,1
+mask_or_not/JPEGImages/19_Couple_Couple_19_257.jpg 450,256,527,395,0 601,304,701,414,0
+mask_or_not/JPEGImages/test_00002045.jpg 94,191,472,753,1
+mask_or_not/JPEGImages/9_Press_Conference_Press_Conference_9_563.jpg 402,114,590,366,0 780,220,912,372,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_481.jpg 223,55,297,162,0 751,114,909,349,0
+mask_or_not/JPEGImages/test_00003333.jpg 62,33,162,204,1
+mask_or_not/JPEGImages/test_00003774.jpg 29,10,125,133,1 104,241,160,298,0 316,41,493,238,0
+mask_or_not/JPEGImages/test_00002801.jpg 171,84,291,227,0
+mask_or_not/JPEGImages/test_00002226.jpg 111,0,180,85,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_1044.jpg 520,54,736,368,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_431.jpg 764,106,821,178,0 146,124,213,195,0 994,104,1023,171,0
+mask_or_not/JPEGImages/test_00002506.jpg 268,97,314,185,1
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_670.jpg 190,154,250,230,0 314,158,382,234,0 442,146,496,226,0 596,88,648,176,0 748,84,810,174,0
+mask_or_not/JPEGImages/test_00002893.jpg 232,84,338,255,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_65.jpg 127,658,188,735,0 531,91,633,242,0 721,143,809,283,0
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_637.jpg 524,68,602,172,0 426,142,512,232,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_565.jpg 295,228,745,812,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_10.jpg 412,83,543,265,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_62.jpg 430,202,634,512,0
+mask_or_not/JPEGImages/test_00000078.jpg 394,205,569,424,0 765,154,945,385,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_47.jpg 438,110,584,274,0
+mask_or_not/JPEGImages/test_00003632.jpg 103,99,213,247,0
+mask_or_not/JPEGImages/test_00001494.jpg 121,27,172,92,0
+mask_or_not/JPEGImages/test_00003992.jpg 322,102,484,306,1
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_644.jpg 468,171,759,528,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_14.jpg 711,146,812,343,0 600,227,635,270,0 490,208,523,250,0 348,150,416,233,0 65,60,183,281,0
+mask_or_not/JPEGImages/test_00002644.jpg 202,27,273,123,1
+mask_or_not/JPEGImages/test_00001409.jpg 191,139,382,481,1
+mask_or_not/JPEGImages/test_00001999.jpg 230,52,299,147,0
+mask_or_not/JPEGImages/test_00000751.jpg 387,56,436,107,0 287,58,345,138,1 11,68,74,141,0 158,122,211,190,1 514,129,573,195,1 117,100,141,124,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_133.jpg 386,139,645,525,0
+mask_or_not/JPEGImages/test_00002558.jpg 97,107,289,357,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_771.jpg 320,114,536,395,0
+mask_or_not/JPEGImages/test_00004441.jpg 111,48,188,174,0 1,303,49,373,0
+mask_or_not/JPEGImages/test_00001948.jpg 216,96,314,229,1
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_234.jpg 594,200,786,458,0
+mask_or_not/JPEGImages/test_00001911.jpg 83,30,242,280,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_850.jpg 326,250,692,741,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_1014.jpg 691,225,889,486,0 437,401,635,674,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_682.jpg 668,210,764,356,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_167.jpg 518,148,606,256,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_471.jpg 467,117,593,274,0
+mask_or_not/JPEGImages/test_00004171.jpg 251,88,354,223,0
+mask_or_not/JPEGImages/test_00000547.jpg 49,31,117,118,1
+mask_or_not/JPEGImages/test_00003204.jpg 284,114,315,157,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_276.jpg 199,259,763,1064,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_872.jpg 288,200,344,276,0 612,182,668,264,0
+mask_or_not/JPEGImages/test_00000153.jpg 133,30,177,87,1
+mask_or_not/JPEGImages/30_Surgeons_Surgeons_30_799.jpg 219,256,259,303,0 1,162,20,251,0 347,541,399,592,0 512,425,541,441,0
+mask_or_not/JPEGImages/test_00000799.jpg 302,89,412,239,1
+mask_or_not/JPEGImages/test_00000294.jpg 89,69,223,269,1
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_357.jpg 206,188,270,276,0
+mask_or_not/JPEGImages/test_00001388.jpg 86,0,451,497,1
+mask_or_not/JPEGImages/test_00001403.jpg 481,179,549,294,1 213,122,312,259,1
+mask_or_not/JPEGImages/test_00002671.jpg 46,149,270,475,1
+mask_or_not/JPEGImages/52_Photographers_taketouristphotos_52_307.jpg 987,541,1021,599,0 286,231,319,276,0 356,233,397,276,0 134,7,169,55,0 0,539,38,598,0 855,539,881,592,0
+mask_or_not/JPEGImages/test_00001008.jpg 1,37,101,150,0
+mask_or_not/JPEGImages/test_00003653.jpg 615,102,978,680,1
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_346.jpg 240,339,772,1078,0
+mask_or_not/JPEGImages/test_00000770.jpg 439,250,486,320,1
+mask_or_not/JPEGImages/test_00001548.jpg 226,298,300,408,0
+mask_or_not/JPEGImages/test_00001069.jpg 149,88,418,490,1
+mask_or_not/JPEGImages/19_Couple_Couple_19_17.jpg 438,210,680,560,0 208,28,486,464,0
+mask_or_not/JPEGImages/test_00002676.jpg 35,2,60,51,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_401.jpg 83,296,129,355,0 158,311,199,364,0 236,281,274,330,0 325,280,361,321,0 419,293,453,340,0 498,289,533,329,0 579,280,613,321,0 659,262,691,310,0 736,293,769,333,0 805,301,844,351,0 873,328,916,372,0
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_483.jpg 86,272,116,309,0 761,222,782,245,0 926,224,947,252,0 555,163,575,191,0
+mask_or_not/JPEGImages/test_00000982.jpg 485,52,644,265,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_372.jpg 720,158,818,332,0
+mask_or_not/JPEGImages/test_00002952.jpg 80,92,271,362,0
+mask_or_not/JPEGImages/30_Surgeons_Surgeons_30_690.jpg 121,133,162,185,0 205,143,248,195,0 294,131,338,185,0 375,102,412,152,0 425,157,464,204,0 515,160,551,204,0 554,120,586,158,0 599,150,641,198,0 679,112,721,162,0 766,121,811,175,0 880,143,926,198,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_303.jpg 358,184,604,504,0 642,100,888,442,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_792.jpg 378,128,524,318,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_631.jpg 389,139,494,287,0
+mask_or_not/JPEGImages/test_00000595.jpg 47,0,137,112,1
+mask_or_not/JPEGImages/1_Handshaking_Handshaking_1_788.jpg 739,204,774,250,0 612,249,675,337,0 410,244,470,321,0 175,316,249,380,0 46,307,88,353,0 254,248,292,288,0 526,217,567,283,0 90,305,129,356,0 366,212,397,258,0
+mask_or_not/JPEGImages/20_Family_Group_Family_Group_20_1003.jpg 192,66,324,218,0 336,88,478,288,0 480,102,612,314,0 628,148,728,296,0
+mask_or_not/JPEGImages/20_Family_Group_Family_Group_20_1037.jpg 0,170,83,315,0 140,121,216,239,0 219,43,292,155,0 343,45,413,145,0 568,48,632,132,0 759,104,826,181,0 968,108,1023,237,0 913,137,985,235,0
+mask_or_not/JPEGImages/test_00004119.jpg 59,304,273,592,1 439,141,629,408,1
+mask_or_not/JPEGImages/19_Couple_Couple_19_106.jpg 306,122,366,204,0 582,170,640,256,0
+mask_or_not/JPEGImages/39_Ice_Skating_Ice_Skating_39_56.jpg 322,240,402,342,0 530,118,600,208,0
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_459.jpg 460,64,658,340,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_553.jpg 150,254,707,972,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_753.jpg 482,98,574,214,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_122.jpg 556,60,760,364,0 250,80,434,344,0
+mask_or_not/JPEGImages/52_Photographers_taketouristphotos_52_278.jpg 414,384,502,498,0
+mask_or_not/JPEGImages/test_00003016.jpg 135,38,169,90,1
+mask_or_not/JPEGImages/test_00004176.jpg 118,45,197,163,0
+mask_or_not/JPEGImages/test_00000026.jpg 36,135,98,237,0 456,183,506,258,0 599,143,639,244,0 279,100,351,204,1
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_387.jpg 462,56,540,172,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_782.jpg 406,88,592,320,0
+mask_or_not/JPEGImages/test_00002569.jpg 323,73,375,141,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_477.jpg 493,283,568,398,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_854.jpg 385,34,405,70,0 727,113,775,166,0 881,57,903,87,0
+mask_or_not/JPEGImages/test_00000893.jpg 362,113,543,374,1
+mask_or_not/JPEGImages/test_00002836.jpg 149,73,468,549,1
+mask_or_not/JPEGImages/39_Ice_Skating_Ice_Skating_39_272.jpg 117,544,231,661,0 426,426,522,546,0
+mask_or_not/JPEGImages/test_00004619.jpg 134,93,347,387,1
+mask_or_not/JPEGImages/test_00001381.jpg 15,63,86,153,1 220,76,395,273,1
+mask_or_not/JPEGImages/test_00002639.jpg 59,52,211,275,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_460.jpg 218,72,450,356,0
+mask_or_not/JPEGImages/test_00004396.jpg 99,191,361,555,1 447,90,713,434,1
+mask_or_not/JPEGImages/test_00002266.jpg 156,65,206,145,1
+mask_or_not/JPEGImages/test_00002355.jpg 76,256,389,672,0
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_464.jpg 360,268,422,360,0 396,378,466,466,0 514,278,600,388,0 594,390,686,468,0
+mask_or_not/JPEGImages/test_00003207.jpg 233,139,518,506,1
+mask_or_not/JPEGImages/19_Couple_Couple_19_544.jpg 665,83,704,141,0
+mask_or_not/JPEGImages/20_Family_Group_Family_Group_20_33.jpg 87,335,123,372,0 123,299,156,340,0 166,299,199,336,0 219,337,249,377,0 251,310,284,347,0 327,289,354,323,0 361,335,388,369,0 437,309,464,341,0 470,319,498,356,0 550,343,575,371,0 553,378,590,424,0 262,401,297,443,0 352,449,387,490,0 456,400,486,437,0 592,412,627,456,0 702,405,733,444,0 635,342,661,371,0 663,310,690,343,0 745,389,772,423,0 772,347,800,377,0 830,346,863,384,0 791,410,830,452,0 898,336,932,375,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_332.jpg 290,38,396,110,0
+mask_or_not/JPEGImages/test_00004867.jpg 164,0,418,376,1
+mask_or_not/JPEGImages/test_00003643.jpg 94,12,126,64,1 202,24,228,68,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_123.jpg 530,270,642,444,0 638,210,790,384,0
+mask_or_not/JPEGImages/test_00003059.jpg 782,558,926,720,0 406,439,584,612,0 1081,259,1122,298,0 1144,283,1193,333,1 1006,291,1051,333,1 795,296,862,365,1 1107,366,1168,430,0
+mask_or_not/JPEGImages/test_00000301.jpg 76,70,230,287,1
+mask_or_not/JPEGImages/test_00004658.jpg 159,58,199,109,1 85,43,119,93,1 243,56,289,115,1
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_41.jpg 57,147,109,200,0 204,163,248,223,0 226,219,277,280,0 341,153,387,212,0 475,180,521,244,0 600,169,656,239,0 758,157,811,233,0 746,120,795,167,0 907,135,970,209,0
+mask_or_not/JPEGImages/test_00001678.jpg 469,220,700,500,1 102,281,307,540,1
+mask_or_not/JPEGImages/test_00002129.jpg 108,37,164,102,0
+mask_or_not/JPEGImages/test_00001043.jpg 57,28,119,117,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_584.jpg 326,160,446,306,0 572,72,696,230,0
+mask_or_not/JPEGImages/41_Swimming_Swimming_41_709.jpg 434,202,441,217,0 445,276,457,289,0 616,330,647,364,0
+mask_or_not/JPEGImages/test_00001604.jpg 262,189,579,594,1
+mask_or_not/JPEGImages/test_00003037.jpg 1646,377,1739,484,0 1262,352,1510,628,0 693,633,1006,964,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_422.jpg 291,159,672,669,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_129.jpg 396,0,594,232,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_58.jpg 454,152,619,394,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_660.jpg 188,38,336,191,0 61,214,123,283,0 860,219,921,285,0 797,174,846,231,0 859,144,875,172,0 789,130,814,160,0 588,156,605,185,0 553,138,572,165,0 954,140,987,181,0 1005,156,1023,190,0
+mask_or_not/JPEGImages/test_00001503.jpg 402,54,499,201,0
+mask_or_not/JPEGImages/30_Surgeons_Surgeons_30_494.jpg 115,402,766,1211,0
+mask_or_not/JPEGImages/test_00004707.jpg 164,56,263,202,1 48,53,155,194,1
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_491.jpg 44,164,280,462,0
+mask_or_not/JPEGImages/test_00002976.jpg 305,64,480,287,1
+mask_or_not/JPEGImages/test_00003478.jpg 367,64,480,206,0 71,105,251,314,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_412.jpg 315,161,569,494,0
+mask_or_not/JPEGImages/test_00001602.jpg 86,33,244,238,1
+mask_or_not/JPEGImages/41_Swimming_Swimming_41_231.jpg 490,242,584,374,0
+mask_or_not/JPEGImages/52_Photographers_taketouristphotos_52_58.jpg 560,141,589,177,0
+mask_or_not/JPEGImages/test_00003064.jpg 163,120,362,382,0
+mask_or_not/JPEGImages/test_00001927.jpg 331,295,379,346,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_483.jpg 182,94,348,264,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_744.jpg 134,64,290,306,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_862.jpg 435,125,564,286,0
+mask_or_not/JPEGImages/test_00002245.jpg 239,137,502,492,1
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_272.jpg 390,195,566,405,0 619,143,713,267,0
+mask_or_not/JPEGImages/test_00003466.jpg 149,0,479,487,1
+mask_or_not/JPEGImages/test_00000728.jpg 196,95,261,193,1
+mask_or_not/JPEGImages/test_00003965.jpg 289,74,556,349,1
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_274.jpg 181,279,453,661,0 559,201,846,606,0
+mask_or_not/JPEGImages/test_00003033.jpg 219,65,350,229,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_267.jpg 818,108,904,210,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_416.jpg 146,66,198,144,0 318,44,374,118,0 510,50,566,124,0 700,88,758,168,0 860,108,916,180,0
+mask_or_not/JPEGImages/test_00002410.jpg 100,46,134,92,1
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_126.jpg 314,110,392,226,0
+mask_or_not/JPEGImages/test_00001849.jpg 430,408,537,537,1 60,642,137,742,1 656,471,735,580,1 46,420,163,567,1 458,634,546,743,1 664,648,736,738,1 244,434,348,577,1 41,1,132,102,0 236,598,353,745,1 311,6,402,118,0 668,244,724,310,1 517,1,594,90,0
+mask_or_not/JPEGImages/25_Soldier_Patrol_Soldier_Patrol_25_986.jpg 399,128,542,297,0
+mask_or_not/JPEGImages/1_Handshaking_Handshaking_1_840.jpg 354,172,432,300,0
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_381.jpg 390,180,574,424,0
+mask_or_not/JPEGImages/test_00004404.jpg 280,85,376,213,0 35,76,146,218,0
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_471.jpg 370,2,666,398,0
+mask_or_not/JPEGImages/test_00003220.jpg 90,25,188,146,1
+mask_or_not/JPEGImages/test_00002759.jpg 52,9,137,110,1 56,175,116,243,1
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_645.jpg 413,117,443,149,0
+mask_or_not/JPEGImages/test_00004795.jpg 180,68,326,263,1
+mask_or_not/JPEGImages/27_Spa_Spa_27_658.jpg 306,131,321,155,0
+mask_or_not/JPEGImages/test_00003423.jpg 168,70,279,221,1
+mask_or_not/JPEGImages/test_00001272.jpg 370,90,512,297,1 167,120,296,299,1 316,515,425,650,1 444,503,540,628,1 34,471,118,604,1 209,498,300,631,1 120,495,201,611,1 546,480,629,628,1 626,477,689,630,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_714.jpg 402,212,545,396,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_39.jpg 122,2,874,690,0
+mask_or_not/JPEGImages/test_00003707.jpg 372,119,644,495,1
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_530.jpg 242,114,464,422,0 502,94,694,386,0
+mask_or_not/JPEGImages/test_00004116.jpg 160,136,296,344,0
+mask_or_not/JPEGImages/test_00002909.jpg 47,115,255,393,0
+mask_or_not/JPEGImages/test_00000888.jpg 98,352,170,465,1
+mask_or_not/JPEGImages/52_Photographers_taketouristphotos_52_301.jpg 469,446,490,474,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_243.jpg 427,213,726,616,0
+mask_or_not/JPEGImages/test_00001593.jpg 19,86,113,199,1 337,18,427,152,1 179,33,271,163,1
+mask_or_not/JPEGImages/1_Handshaking_Handshaking_1_671.jpg 722,212,794,328,0
+mask_or_not/JPEGImages/test_00001856.jpg 311,163,382,248,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_254.jpg 606,42,714,202,0 572,68,640,218,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_96.jpg 408,128,468,216,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_117.jpg 344,222,484,382,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_637.jpg 486,164,730,446,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_17.jpg 179,103,213,145,0 392,129,431,176,0 506,159,546,204,0 581,144,624,189,0
+mask_or_not/JPEGImages/test_00000858.jpg 229,140,516,501,1
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_520.jpg 222,144,294,234,0 320,144,392,254,0 776,200,868,306,0
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_245.jpg 480,80,616,307,0 240,123,379,312,0
+mask_or_not/JPEGImages/test_00000179.jpg 137,51,200,134,1
+mask_or_not/JPEGImages/test_00003865.jpg 434,84,631,335,0 256,149,368,397,1
+mask_or_not/JPEGImages/test_00000610.jpg 308,224,393,350,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_680.jpg 388,268,409,293,0 920,119,945,157,0 532,135,561,176,0 519,697,622,840,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_130.jpg 558,94,670,246,0 210,180,306,306,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_412.jpg 357,6,652,331,0
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_331.jpg 274,20,756,511,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_275.jpg 376,50,522,258,0
+mask_or_not/JPEGImages/test_00000118.jpg 73,100,163,234,1
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_23.jpg 326,172,369,233,0 484,209,522,250,0 179,331,230,379,0 676,229,724,288,0 494,388,539,421,0
+mask_or_not/JPEGImages/test_00004451.jpg 308,261,698,906,0
+mask_or_not/JPEGImages/test_00001234.jpg 185,1,529,436,1
+mask_or_not/JPEGImages/41_Swimming_Swimming_41_101.jpg 514,723,610,815,0
+mask_or_not/JPEGImages/test_00001348.jpg 469,209,654,421,1 1184,208,1369,425,1
+mask_or_not/JPEGImages/test_00000961.jpg 375,358,448,452,0 335,66,361,113,0 149,67,176,105,0 118,347,198,454,0
+mask_or_not/JPEGImages/test_00003363.jpg 121,29,265,230,1
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_286.jpg 170,176,421,519,0
+mask_or_not/JPEGImages/test_00002311.jpg 303,60,435,260,1
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_11.jpg 454,118,574,292,0
+mask_or_not/JPEGImages/test_00004034.jpg 149,120,236,234,0
+mask_or_not/JPEGImages/39_Ice_Skating_Ice_Skating_39_270.jpg 560,539,674,656,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_523.jpg 541,121,662,317,0 241,989,324,1115,0
+mask_or_not/JPEGImages/test_00004553.jpg 193,137,310,280,1
+mask_or_not/JPEGImages/test_00001745.jpg 1,280,511,625,1
+mask_or_not/JPEGImages/test_00002049.jpg 332,325,620,583,1
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_843.jpg 220,254,250,299,0 174,236,212,300,0 376,18,397,48,0 601,82,711,251,0 781,91,924,259,0 709,214,748,263,0 740,223,772,270,0 509,23,521,35,0 493,20,501,34,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_784.jpg 168,351,781,1105,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_425.jpg 670,52,744,136,0
+mask_or_not/JPEGImages/test_00003339.jpg 139,1,524,443,1
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_811.jpg 494,134,587,261,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_70.jpg 476,300,560,392,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_62.jpg 392,751,444,830,0 626,771,668,842,0
+mask_or_not/JPEGImages/test_00003322.jpg 510,110,587,198,1
+mask_or_not/JPEGImages/test_00003371.jpg 157,110,382,438,1
+mask_or_not/JPEGImages/test_00003669.jpg 251,129,333,226,1
+mask_or_not/JPEGImages/test_00000336.jpg 155,45,208,109,1
+mask_or_not/JPEGImages/test_00002055.jpg 330,466,583,621,1
+mask_or_not/JPEGImages/test_00003463.jpg 238,74,380,245,1
+mask_or_not/JPEGImages/test_00003674.jpg 282,204,333,290,0 391,280,414,317,0 478,291,503,331,0 194,302,208,326,0 524,311,548,350,0 99,305,112,328,0
+mask_or_not/JPEGImages/test_00000400.jpg 151,27,213,112,0 24,21,86,110,1
+mask_or_not/JPEGImages/27_Spa_Spa_27_51.jpg 216,114,566,330,0
+mask_or_not/JPEGImages/test_00002307.jpg 270,1,422,171,0 147,46,327,313,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_729.jpg 354,140,414,206,0 694,204,760,260,0
+mask_or_not/JPEGImages/test_00004069.jpg 250,86,383,267,1
+mask_or_not/JPEGImages/test_00004448.jpg 411,1,530,149,1
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_123.jpg 418,267,497,386,0
+mask_or_not/JPEGImages/test_00001988.jpg 327,149,427,273,1 47,240,137,355,1
+mask_or_not/JPEGImages/test_00003980.jpg 259,250,415,449,1
+mask_or_not/JPEGImages/test_00003863.jpg 183,101,508,581,1
+mask_or_not/JPEGImages/test_00003941.jpg 274,197,568,578,1
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_760.jpg 104,370,167,456,0 529,302,609,402,0 826,88,932,221,0
+mask_or_not/JPEGImages/test_00004691.jpg 103,47,172,145,1
+mask_or_not/JPEGImages/test_00002037.jpg 166,206,406,392,1
+mask_or_not/JPEGImages/test_00001104.jpg 170,120,337,348,1
+mask_or_not/JPEGImages/test_00002745.jpg 208,161,519,611,1
+mask_or_not/JPEGImages/27_Spa_Spa_27_228.jpg 465,270,677,495,0 402,719,614,939,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_784.jpg 293,184,416,333,0 673,160,774,281,0 913,548,958,597,0 993,530,1023,580,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_389.jpg 732,168,800,284,0 782,188,868,278,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_505.jpg 182,24,262,136,0 474,36,558,156,0 818,52,898,172,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_286.jpg 76,311,229,501,0 303,198,439,399,0 789,226,919,421,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_91.jpg 77,144,96,175,0 112,120,136,155,0 168,123,195,159,0 235,123,253,159,0 248,133,270,166,0 302,110,317,141,0 334,117,357,146,0 418,128,438,161,0 449,118,478,153,0 507,70,519,108,0 552,79,569,111,0 653,88,670,121,0 723,99,750,141,0 839,128,868,164,0 771,103,795,146,0 918,82,950,123,0 928,47,961,85,0 338,403,356,427,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_589.jpg 260,196,558,556,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_642.jpg 370,114,460,210,0 542,148,608,246,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_521.jpg 434,123,560,327,0
+mask_or_not/JPEGImages/test_00003341.jpg 172,66,463,472,0
+mask_or_not/JPEGImages/test_00003685.jpg 77,337,132,416,1 277,51,377,190,1 83,20,148,100,1 123,66,167,128,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_150.jpg 670,208,766,310,0
+mask_or_not/JPEGImages/test_00001960.jpg 100,7,278,211,1
+mask_or_not/JPEGImages/19_Couple_Couple_19_469.jpg 522,140,602,238,0 550,84,630,174,0
+mask_or_not/JPEGImages/test_00002916.jpg 250,198,483,508,1
+mask_or_not/JPEGImages/test_00004921.jpg 128,86,255,253,1 283,34,475,266,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_827.jpg 750,1045,771,1076,0 850,969,879,1008,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_90.jpg 380,226,501,412,0
+mask_or_not/JPEGImages/test_00002362.jpg 229,1,441,316,1 7,52,199,311,1
+mask_or_not/JPEGImages/test_00003382.jpg 86,103,350,459,1
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_143.jpg 258,223,685,852,0
+mask_or_not/JPEGImages/test_00004753.jpg 220,53,428,351,1
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_15.jpg 105,243,174,351,0 403,250,438,301,0 865,261,920,348,0
+mask_or_not/JPEGImages/test_00004474.jpg 213,167,382,440,0
+mask_or_not/JPEGImages/test_00001508.jpg 110,117,398,517,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_704.jpg 343,686,421,761,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_55.jpg 140,1173,196,1255,0 90,1016,158,1100,0 92,916,158,993,0 45,793,107,861,0 310,1052,370,1131,0 458,1087,534,1180,0 667,1124,725,1206,0 917,1174,983,1243,0 827,1028,893,1102,0 546,965,618,1049,0 710,856,785,940,0 0,1243,12,1309,0 342,983,411,1059,0 478,963,545,1045,0 940,896,997,973,0 223,752,289,836,0 468,736,534,817,0 658,632,725,706,0 905,662,961,732,0 449,656,510,708,0 284,600,344,666,0 235,476,282,562,0 105,382,169,459,0 688,457,759,532,0 810,368,876,442,0 999,37,1023,100,0 825,42,878,106,0 907,175,962,244,0 814,265,876,328,0 575,310,632,378,0 595,223,661,301,0 625,64,677,128,0 388,324,443,402,0 405,254,468,331,0 436,56,489,125,0 378,76,421,140,0 378,173,437,246,0 80,62,136,128,0 117,164,178,240,0 165,222,234,296,0
+mask_or_not/JPEGImages/test_00003452.jpg 287,77,407,197,1
+mask_or_not/JPEGImages/test_00001371.jpg 354,74,434,184,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_733.jpg 964,397,987,424,0 1004,350,1023,379,0 988,316,1011,345,0 974,283,994,308,0 1017,246,1023,273,0 953,252,973,278,0 879,403,902,433,0 911,353,934,383,0 911,325,935,351,0 888,276,912,306,0 877,267,898,292,0 895,222,917,250,0 851,361,875,387,0 799,389,824,415,0 778,352,803,383,0 828,326,854,351,0 807,280,828,309,0 813,262,832,285,0 798,229,821,257,0 778,204,801,230,0 732,369,758,398,0 758,312,780,340,0 699,335,725,367,0 729,302,751,325,0 750,276,770,304,0 738,247,758,270,0 679,292,702,322,0 637,386,662,414,0 619,322,644,354,0 649,288,671,313,0 677,265,701,290,0 661,200,682,232,0 639,204,662,230,0 993,171,1014,198,0 919,184,939,211,0 899,187,919,211,0 826,184,849,205,0 715,187,736,214,0 759,179,779,203,0 600,295,624,325,0 605,260,627,276,0 553,414,574,441,0 506,412,543,462,0 530,335,554,366,0 551,338,565,363,0 569,286,591,314,0 536,268,558,295,0 582,217,604,243,0 571,203,592,225,0 525,210,547,236,0 466,413,488,440,0 395,403,417,432,0 445,342,471,375,0 452,301,476,330,0 481,259,506,288,0 460,249,481,279,0 448,221,469,248,0 383,356,403,384,0 395,281,414,310,0 359,291,382,325,0 394,248,416,276,0 382,199,403,228,0 341,195,362,219,0 306,392,330,419,0 314,356,338,386,0 311,284,335,311,0 261,298,284,325,0 316,256,338,280,0 313,216,335,243,0 227,376,254,410,0 245,372,265,398,0 229,292,252,324,0 240,253,264,282,0 249,237,271,259,0 252,195,274,220,0 184,198,209,224,0 169,215,191,238,0 166,239,191,268,0 157,296,178,321,0 174,330,196,356,0 162,364,185,392,0 151,409,175,440,0 67,373,90,406,0 79,357,103,390,0 101,301,125,331,0 96,282,119,308,0 103,219,125,247,0 115,197,136,220,0 1,345,17,374,0 8,284,32,314,0 19,243,43,273,0 28,226,48,247,0 38,188,61,210,0
+mask_or_not/JPEGImages/test_00000622.jpg 190,197,326,401,1
+mask_or_not/JPEGImages/test_00000693.jpg 164,196,232,282,1 466,225,519,305,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_534.jpg 391,43,419,77,0 404,250,419,267,0 374,476,405,518,0 765,160,820,225,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_764.jpg 418,100,620,386,0
+mask_or_not/JPEGImages/test_00004912.jpg 66,43,189,253,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_238.jpg 362,84,450,212,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_787.jpg 338,197,609,594,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_171.jpg 427,393,580,602,0 344,473,414,546,0 106,521,171,604,0 745,614,782,663,0 892,588,927,630,0 968,580,1006,619,0
+mask_or_not/JPEGImages/test_00001373.jpg 67,183,317,513,0
+mask_or_not/JPEGImages/test_00004878.jpg 158,20,392,359,1
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_70.jpg 738,161,778,215,0 535,196,580,244,0 153,156,190,205,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_108.jpg 297,378,462,603,0
+mask_or_not/JPEGImages/test_00001608.jpg 77,33,129,101,1
+mask_or_not/JPEGImages/test_00003171.jpg 193,83,567,555,1
+mask_or_not/JPEGImages/test_00001096.jpg 365,457,417,543,1
+mask_or_not/JPEGImages/test_00001142.jpg 542,472,675,631,1 141,325,345,577,1
+mask_or_not/JPEGImages/test_00004863.jpg 63,9,283,329,1
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_531.jpg 209,322,410,504,0
+mask_or_not/JPEGImages/test_00002651.jpg 61,17,139,123,1
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_112.jpg 572,114,668,246,0
+mask_or_not/JPEGImages/test_00000125.jpg 15,80,106,211,1
+mask_or_not/JPEGImages/20_Family_Group_Family_Group_20_447.jpg 394,512,560,716,0 196,310,500,552,0 522,372,774,628,0 170,106,438,298,0 438,32,646,332,0 642,200,840,388,0
+mask_or_not/JPEGImages/test_00000014.jpg 26,1,101,94,1 130,51,179,127,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_126.jpg 450,176,644,374,0
+mask_or_not/JPEGImages/9_Press_Conference_Press_Conference_9_648.jpg 461,187,754,560,0 19,475,131,728,0
+mask_or_not/JPEGImages/test_00000894.jpg 100,55,292,300,1
+mask_or_not/JPEGImages/test_00003378.jpg 141,119,253,301,1
+mask_or_not/JPEGImages/test_00004359.jpg 271,195,548,572,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_504.jpg 304,212,342,267,0 427,199,465,253,0
+mask_or_not/JPEGImages/test_00001141.jpg 92,87,198,208,0 243,20,379,203,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_268.jpg 340,100,520,300,0 98,278,202,346,0
+mask_or_not/JPEGImages/test_00004665.jpg 271,117,598,581,1
+mask_or_not/JPEGImages/test_00004022.jpg 48,126,256,462,1
+mask_or_not/JPEGImages/test_00004871.jpg 236,37,334,150,1
+mask_or_not/JPEGImages/test_00003165.jpg 242,84,412,301,1 87,35,249,240,1
+mask_or_not/JPEGImages/test_00000002.jpg 129,37,318,327,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_200.jpg 158,60,282,224,0 678,50,798,212,0
+mask_or_not/JPEGImages/test_00003365.jpg 130,103,318,340,0
+mask_or_not/JPEGImages/test_00001497.jpg 96,142,456,670,1
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_703.jpg 394,336,472,406,0
+mask_or_not/JPEGImages/test_00000395.jpg 151,20,186,79,1 108,21,147,83,1
+mask_or_not/JPEGImages/test_00000034.jpg 509,65,612,193,0
+mask_or_not/JPEGImages/test_00002178.jpg 273,75,502,394,1
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_487.jpg 208,156,326,316,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_264.jpg 221,153,261,232,0 495,251,547,316,0 621,230,667,289,0 700,288,740,339,0 271,414,346,508,0 111,488,124,499,0 84,548,99,563,0 139,517,152,531,0 197,523,212,542,0 210,563,225,581,0 170,575,189,594,0 138,552,152,567,0 98,585,120,607,0 105,654,114,664,0 120,646,130,656,0 140,640,149,650,0 155,630,164,640,0 173,626,183,637,0 190,615,200,625,0 207,614,217,624,0 634,506,661,546,0 870,260,957,413,0 855,99,876,129,0 775,564,803,601,0
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_963.jpg 447,137,658,405,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_71.jpg 294,104,484,366,0
+mask_or_not/JPEGImages/test_00002456.jpg 316,162,349,208,0 223,148,259,187,0 141,135,179,181,0
+mask_or_not/JPEGImages/52_Photographers_taketouristphotos_52_306.jpg 279,372,711,928,0
+mask_or_not/JPEGImages/test_00003233.jpg 275,2,401,218,0
+mask_or_not/JPEGImages/test_00004138.jpg 262,82,415,261,0
+mask_or_not/JPEGImages/test_00002776.jpg 56,1,141,95,1 117,122,215,240,1 373,51,470,170,1 280,40,364,146,1
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_192.jpg 492,80,544,146,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_822.jpg 188,124,454,494,0 412,138,682,502,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_229.jpg 410,108,607,421,0
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_836.jpg 266,258,406,476,0 596,108,766,322,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_407.jpg 721,101,819,240,0
+mask_or_not/JPEGImages/test_00004290.jpg 81,36,223,226,1
+mask_or_not/JPEGImages/test_00001415.jpg 122,67,185,170,1
+mask_or_not/JPEGImages/test_00002544.jpg 207,38,310,167,1 343,118,406,202,1
+mask_or_not/JPEGImages/13_Interview_Interview_2_People_Visible_13_374.jpg 408,34,620,340,0
+mask_or_not/JPEGImages/test_00003196.jpg 176,78,214,125,1 278,72,313,121,1 91,85,133,133,1 364,39,416,102,1
+mask_or_not/JPEGImages/test_00004513.jpg 73,95,226,282,0
+mask_or_not/JPEGImages/test_00004175.jpg 224,97,351,294,0
+mask_or_not/JPEGImages/test_00001366.jpg 175,27,337,279,1
+mask_or_not/JPEGImages/test_00004172.jpg 140,41,217,148,1
+mask_or_not/JPEGImages/test_00001363.jpg 214,40,270,110,1 62,31,116,112,1 54,337,114,410,1 213,333,264,402,1 337,24,396,111,1 50,188,116,266,1 351,176,410,248,1 338,336,396,414,1
+mask_or_not/JPEGImages/test_00004928.jpg 192,56,405,353,1
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_153.jpg 369,125,584,447,0
+mask_or_not/JPEGImages/test_00002166.jpg 321,435,489,665,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_552.jpg 168,76,250,188,0
+mask_or_not/JPEGImages/test_00002315.jpg 197,136,258,194,0 282,100,326,163,0
+mask_or_not/JPEGImages/test_00000129.jpg 118,26,172,94,1
+mask_or_not/JPEGImages/test_00003765.jpg 238,132,304,243,1 307,187,327,217,0 65,236,89,276,0 147,208,194,263,0
+mask_or_not/JPEGImages/1_Handshaking_Handshaking_1_485.jpg 194,54,264,192,0 722,56,794,186,0
+mask_or_not/JPEGImages/test_00004105.jpg 177,72,235,137,0
+mask_or_not/JPEGImages/test_00000550.jpg 75,3,110,50,1 40,1,68,29,0 149,1,173,28,0
+mask_or_not/JPEGImages/test_00000433.jpg 166,235,517,656,1
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_483.jpg 370,204,466,332,0 704,528,768,614,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_550.jpg 220,454,414,722,0 525,210,766,526,0
+mask_or_not/JPEGImages/test_00003652.jpg 134,63,409,419,0
+mask_or_not/JPEGImages/test_00003763.jpg 185,48,322,206,0
+mask_or_not/JPEGImages/test_00000803.jpg 389,131,484,274,1
+mask_or_not/JPEGImages/20_Family_Group_Family_Group_20_318.jpg 180,160,252,264,0 424,44,502,152,0 750,272,816,366,0 872,200,978,334,0
+mask_or_not/JPEGImages/test_00002349.jpg 359,24,440,115,0 75,31,140,111,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_41.jpg 566,343,672,436,0
+mask_or_not/JPEGImages/test_00000291.jpg 89,85,214,260,1
+mask_or_not/JPEGImages/test_00001658.jpg 244,137,366,273,1
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_845.jpg 554,196,668,356,0
+mask_or_not/JPEGImages/test_00002281.jpg 906,266,965,352,0 529,262,581,343,1 1,34,26,116,0
+mask_or_not/JPEGImages/test_00003258.jpg 203,76,315,222,1
+mask_or_not/JPEGImages/test_00000292.jpg 79,82,229,279,1
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_386.jpg 272,154,528,448,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_81.jpg 703,167,875,355,0
+mask_or_not/JPEGImages/test_00001404.jpg 86,92,145,172,1
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_261.jpg 420,56,624,340,0
+mask_or_not/JPEGImages/test_00002114.jpg 305,51,439,237,1 111,45,149,94,1
+mask_or_not/JPEGImages/test_00000337.jpg 112,104,237,257,1
+mask_or_not/JPEGImages/47_Matador_Bullfighter_Matador_Bullfighter_47_703.jpg 470,130,598,280,0
+mask_or_not/JPEGImages/test_00004127.jpg 93,21,154,99,0
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_55.jpg 668,290,687,318,0 736,283,755,314,0
+mask_or_not/JPEGImages/27_Spa_Spa_27_434.jpg 156,130,468,306,0
+mask_or_not/JPEGImages/test_00003107.jpg 128,25,175,98,0
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_86.jpg 215,115,237,150,0 328,98,358,138,0 369,111,388,136,0 461,76,495,127,0 816,145,843,188,0 771,145,795,177,0
+mask_or_not/JPEGImages/test_00001027.jpg 246,104,433,406,0
+mask_or_not/JPEGImages/test_00002697.jpg 85,110,258,349,1
+mask_or_not/JPEGImages/test_00004614.jpg 91,217,162,297,1 150,147,230,228,1 43,109,130,196,1
+mask_or_not/JPEGImages/test_00002761.jpg 76,28,134,104,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_188.jpg 571,344,667,488,0 304,229,403,354,0
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_717.jpg 592,82,744,260,0
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_63.jpg 689,189,732,233,0
+mask_or_not/JPEGImages/test_00004786.jpg 136,103,184,155,1 249,78,298,149,1
+mask_or_not/JPEGImages/test_00001511.jpg 252,162,461,443,1
+mask_or_not/JPEGImages/test_00002519.jpg 56,65,212,261,1 355,115,483,299,1
+mask_or_not/JPEGImages/test_00004187.jpg 404,133,618,458,1 107,280,321,574,1
+mask_or_not/JPEGImages/test_00000773.jpg 419,107,465,157,0 731,64,778,118,0 538,94,579,148,0 276,93,326,167,1
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_386.jpg 435,190,820,709,0
+mask_or_not/JPEGImages/test_00002078.jpg 125,32,171,96,1 191,22,231,89,1 21,76,29,89,1 82,74,93,92,1
+mask_or_not/JPEGImages/test_00003305.jpg 1141,157,1233,269,0 1345,134,1403,208,0 517,63,601,196,0 774,144,871,261,0
+mask_or_not/JPEGImages/test_00001175.jpg 261,138,406,296,0
+mask_or_not/JPEGImages/test_00004882.jpg 90,108,293,372,1
+mask_or_not/JPEGImages/41_Swimming_Swimming_41_614.jpg 430,122,664,412,0
+mask_or_not/JPEGImages/13_Interview_Interview_Sequences_13_334.jpg 730,76,884,292,0
+mask_or_not/JPEGImages/test_00000210.jpg 153,79,215,158,1
+mask_or_not/JPEGImages/test_00003073.jpg 206,128,437,440,1
+mask_or_not/JPEGImages/test_00002843.jpg 301,79,598,493,1 335,535,463,700,1 82,464,211,637,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_913.jpg 461,133,575,293,0 943,343,1021,469,0
+mask_or_not/JPEGImages/test_00002977.jpg 807,638,1290,1216,1
+mask_or_not/JPEGImages/test_00001313.jpg 139,113,341,378,1
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_404.jpg 150,155,205,229,0 752,209,812,299,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_992.jpg 422,122,656,416,0
+mask_or_not/JPEGImages/41_Swimming_Swimming_41_47.jpg 430,250,568,430,0
+mask_or_not/JPEGImages/39_Ice_Skating_iceskiing_39_1038.jpg 84,250,582,916,0
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_324.jpg 498,144,578,250,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_754.jpg 799,646,964,880,0
+mask_or_not/JPEGImages/test_00002415.jpg 43,40,169,206,1
+mask_or_not/JPEGImages/test_00001884.jpg 56,233,83,280,1 155,179,189,230,1 37,91,89,182,1 121,288,159,350,1
+mask_or_not/JPEGImages/4_Dancing_Dancing_4_502.jpg 80,218,254,402,0 468,22,632,268,0
+mask_or_not/JPEGImages/test_00001331.jpg 426,211,455,241,1 179,63,308,230,0
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_377.jpg 274,127,319,186,0 371,164,416,215,0 451,183,492,229,0 494,163,533,210,0 614,176,655,224,0 698,205,735,250,0
+mask_or_not/JPEGImages/test_00003185.jpg 148,114,273,272,1
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_590.jpg 302,306,684,706,0
+mask_or_not/JPEGImages/test_00000338.jpg 92,132,247,340,1
+mask_or_not/JPEGImages/39_Ice_Skating_Ice_Skating_39_156.jpg 566,44,631,143,0 318,47,357,95,0 715,16,760,66,0 456,90,507,185,0
+mask_or_not/JPEGImages/test_00000089.jpg 80,58,158,143,1
+mask_or_not/JPEGImages/test_00003866.jpg 360,78,587,404,1
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_885.jpg 148,38,222,144,0 514,56,580,148,0 800,44,882,170,0
+mask_or_not/JPEGImages/test_00001829.jpg 99,96,273,296,1
+mask_or_not/JPEGImages/test_00004688.jpg 268,117,504,419,1
+mask_or_not/JPEGImages/test_00000232.jpg 73,27,103,71,1
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_698.jpg 204,242,344,426,0 728,200,852,420,0
+mask_or_not/JPEGImages/test_00003470.jpg 131,1,661,622,1
+mask_or_not/JPEGImages/test_00004598.jpg 311,128,421,303,1
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_628.jpg 195,219,473,476,0
+mask_or_not/JPEGImages/test_00003474.jpg 234,116,494,467,1
+mask_or_not/JPEGImages/test_00003828.jpg 241,131,621,614,1
+mask_or_not/JPEGImages/test_00000838.jpg 302,75,470,262,1 590,225,652,292,1 802,63,939,266,0 1,12,48,184,0
+mask_or_not/JPEGImages/30_Surgeons_Surgeons_30_872.jpg 384,46,554,256,0 578,546,828,698,0
+mask_or_not/JPEGImages/test_00002574.jpg 54,238,106,292,1 176,197,227,246,1 276,203,324,249,1
+mask_or_not/JPEGImages/41_Swimming_Swimming_41_746.jpg 262,82,434,286,0 134,88,192,154,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_946.jpg 354,84,756,634,0
+mask_or_not/JPEGImages/test_00003281.jpg 117,103,309,420,1
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_365.jpg 360,153,439,257,0
+mask_or_not/JPEGImages/test_00000715.jpg 691,209,794,375,1 332,143,442,322,1
+mask_or_not/JPEGImages/test_00004324.jpg 85,24,151,104,1
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_934.jpg 352,357,421,466,0
+mask_or_not/JPEGImages/test_00004853.jpg 137,86,317,306,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_100.jpg 378,36,542,302,0 619,1,1022,449,0
+mask_or_not/JPEGImages/test_00003933.jpg 117,68,263,273,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_294.jpg 430,96,516,232,0 638,272,726,418,0 694,284,806,460,0 848,318,970,482,0
+mask_or_not/JPEGImages/test_00004015.jpg 382,271,779,839,1
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_520.jpg 212,129,285,228,0 408,137,425,162,0 821,145,870,209,0 674,137,686,152,0 45,117,70,146,0 96,139,118,160,0 181,145,198,164,0 365,144,374,156,0
+mask_or_not/JPEGImages/test_00001873.jpg 186,84,323,257,0
+mask_or_not/JPEGImages/41_Swimming_Swimmer_41_773.jpg 120,78,528,618,0
+mask_or_not/JPEGImages/test_00002929.jpg 347,45,392,101,0 159,80,198,142,0
+mask_or_not/JPEGImages/27_Spa_Spa_27_741.jpg 166,254,288,366,0
+mask_or_not/JPEGImages/45_Balloonist_Balloonist_45_615.jpg 94,114,178,216,0 248,166,368,330,0 746,162,832,266,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_523.jpg 170,80,294,270,0
+mask_or_not/JPEGImages/19_Couple_Couple_19_49.jpg 238,212,346,370,0 602,232,718,404,0
+mask_or_not/JPEGImages/51_Dresses_wearingdress_51_692.jpg 167,292,282,468,0 679,100,806,262,0
+mask_or_not/JPEGImages/test_00000639.jpg 155,63,240,178,1 37,96,77,184,0
+mask_or_not/JPEGImages/test_00002939.jpg 259,142,483,466,1
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_712.jpg 396,112,524,316,0 588,158,722,348,0
+mask_or_not/JPEGImages/test_00002247.jpg 276,36,318,99,1 107,50,161,123,1
+mask_or_not/JPEGImages/test_00003422.jpg 117,101,266,297,0
+mask_or_not/JPEGImages/38_Tennis_Tennis_38_119.jpg 306,318,390,438,0 571,390,664,480,0
+mask_or_not/JPEGImages/test_00000631.jpg 235,38,292,108,1 35,70,98,149,1
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_285.jpg 700,366,822,530,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_133.jpg 659,75,729,166,0 475,105,540,190,0 287,111,353,190,0 95,35,160,134,0 828,69,882,158,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_417.jpg 82,289,103,316,0 109,294,127,317,0 179,295,195,317,0 207,298,225,318,0 240,310,259,334,0 257,282,278,309,0 292,304,306,322,0 336,298,356,319,0 455,287,471,315,0 503,304,519,328,0 520,299,535,318,0 567,268,586,303,0 593,281,613,308,0 663,278,685,307,0 724,273,744,298,0 734,282,750,308,0 765,305,786,335,0 745,356,766,386,0 815,282,837,309,0 805,355,831,386,0 865,290,882,312,0 877,255,908,291,0 935,286,956,308,0 962,289,978,316,0 992,225,1005,268,0
+mask_or_not/JPEGImages/test_00002691.jpg 180,182,281,313,1
+mask_or_not/JPEGImages/test_00003915.jpg 107,163,353,506,1
+mask_or_not/JPEGImages/13_Interview_Interview_On_Location_13_777.jpg 380,88,510,232,0
+mask_or_not/JPEGImages/49_Greeting_peoplegreeting_49_153.jpg 536,262,922,849,0
+mask_or_not/JPEGImages/32_Worker_Laborer_Worker_Laborer_32_190.jpg 714,268,852,464,0
+mask_or_not/JPEGImages/16_Award_Ceremony_Awards_Ceremony_16_461.jpg 422,142,606,383,0
+mask_or_not/JPEGImages/test_00000576.jpg 83,26,145,119,1
+mask_or_not/JPEGImages/28_Sports_Fan_Sports_Fan_28_835.jpg 231,308,397,521,0 648,363,783,552,0
+mask_or_not/JPEGImages/52_Photographers_photographertakingphoto_52_22.jpg 32,12,512,568,0
+mask_or_not/JPEGImages/31_Waiter_Waitress_Waiter_Waitress_31_842.jpg 343,134,518,381,0 743,574,918,818,0
+mask_or_not/JPEGImages/52_Photographers_taketouristphotos_52_75.jpg 232,250,332,414,0 530,74,690,270,0
+mask_or_not/JPEGImages/test_00002677.jpg 212,58,270,141,1
